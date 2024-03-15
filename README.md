@@ -3,6 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Wolff&show_icons=true&theme=radical)
 
+<div align="center">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Wolff&layout=compact&&langs_count=8"/>
+</div>
+
 #### Top Technologies
 
 <div style="display: inline_block"><br>
