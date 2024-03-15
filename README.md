@@ -1,6 +1,6 @@
 ## Oi eu sou o Guilherme Wolff, Desenvolvedor de Software !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Guilherme-Wolff=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Wolff&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
