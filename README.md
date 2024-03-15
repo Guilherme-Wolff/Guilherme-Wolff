@@ -1,10 +1,9 @@
 ## Oi eu sou o Guilherme Wolff, Desenvolvedor de Software !
 
-#### Top Technologies
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Wolff&show_icons=true&theme=radical)
 
-
+#### Top Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guiw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
